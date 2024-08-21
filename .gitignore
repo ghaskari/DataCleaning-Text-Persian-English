@@ -8,3 +8,6 @@ test.py
 *.en
 *.fa
 *.xml
+*.ids
+LICENSE
+README
