@@ -5,3 +5,6 @@ __pycache__
 *.csv
 *.xlsx
 test.py
+*.en
+*.fa
+*.xml
